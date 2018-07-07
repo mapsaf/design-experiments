@@ -1,4 +1,2 @@
 Design Experiments
 ==================
-
-[experiments](experiments)
